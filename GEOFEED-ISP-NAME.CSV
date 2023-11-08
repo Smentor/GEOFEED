@@ -1,0 +1,14 @@
+# prefix,country_code,region_code,city,postal,isp
+
+38.7.100.0/24,PE,PE-ARE,Arequipa,04000,Digo
+38.7.101.80/29,PE,PE-ARE,Arequipa,04000,NETLINK
+38.7.101.96/28,PE,PE-ARE,Arequipa,04000,Ossiris
+38.7.101.208/28,PE,PE-ARE,Arequipa,04000,Infinity
+38.7.101.20/32,PE,PE-ARE,Arequipa,04000,Colegio Latinoamericano
+38.7.101.19/32,PE,PE-ARE,Arequipa,04000,St. Andrew 
+38.7.101.56/29,PE,PE-ARE,Arequipa,04000,Red Start
+38.7.101.64/29,PE,PE-ARE,Arequipa,04000,Flash Net
+38.7.101.24/29,PE,PE-ARE,Arequipa,04000,Ranssi
+38.7.101.72/29,PE,PE-ARE,Arequipa,04000,FIGHTER GROUP
+38.7.101.112/30,PE,PE-ARE,Arequipa,04000,Clicktel
+38.7.101.5/32,,PE,PE-ARE,Arequipa,04000,Wow Oficinas
